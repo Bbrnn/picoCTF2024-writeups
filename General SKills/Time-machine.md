@@ -13,9 +13,10 @@ challenge.zip
 
 # Solution
 
-* Firstoff ,I downloaded the zip file **challenge.zip**\
-* Then i unzipped using **unzip challenge.zip** command\
-* From the desription,the author says he left a note to help remember\
+* Firstoff ,I downloaded the zip file **challenge.zip**
+* Then i unzipped using **unzip challenge.zip** command and found drop-in folder
+* I then cd drop-in
+* From the description,the author says he left a note to help remember
 * After checking out the resource provided in the hint,I will use **git log** to see past commits
 * Boom,found the flag
 
