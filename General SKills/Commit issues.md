@@ -15,6 +15,7 @@ Check it out here:\
 
 Now,download the zip file,challenge.zip.Then unzip it using unzip challenge.zip command.\
 ![image](https://github.com/Bbrnn/picoCTF2024-writeups/assets/113863725/c986570c-9697-4c80-82d8-2b71f1bd9cdb)
+
 After unzipping ,I found drop-in folder
 
 * Next step is to **cd drop-in**
