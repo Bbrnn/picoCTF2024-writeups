@@ -1,0 +1,26 @@
+# Blame Game
+
+**Description**
+Someone's commits seems to be preventing the program from working. Who is it?
+You can download the challenge files here:
+challenge.zip
+
+**HINTS**
+1. In collaborative projects, many users can make many changes. How can you see the changes within one file?
+1. Read the chapter on Git from the picoPrimer<https://primer.picoctf.org/#_git_version_control> here.
+1. You can use python3 <file>.py to try running the code, though you won't need to for this challenge.
+
+## Solution
+
+First,I downloaded the zip file and unzipped it
+* wget challenge.zip
+* unzip challenge.zip
+* cd drop-in
+* ls
+* cat message.py
+* git log message.py-this command enables one to view past commits of the file,message.txt
+
+Finally I found the flag
+You can use python3 <file>.py to try running the code, though you won't need to for this challenge.
+
+
