@@ -10,9 +10,9 @@ Download the file here.
 
 # Solution
 
-* First,I downloaded the file,enc_flag\
-* I used the command cat enc_flag to display the contents of the file. The content seemed to be base64 encoded.\
-* Using this command `echo "base64_string' |base64 -d`,I was able to decode\
+* First,I downloaded the file,enc_flag
+* I used the command cat enc_flag to display the contents of the file. The content seemed to be base64 encoded.
+* Using this command `echo "base64_string' |base64 -d`,I was able to decode
 * After decoding, I checked the contents again. It was still base64 encoded.
 * So i decided to decode it again using the same command from 
 * Well,The resulting string was still encoded, but the format resembled our flag.
