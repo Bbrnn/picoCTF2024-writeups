@@ -32,6 +32,7 @@ Next, I checked the metadata of the downloaded file using the command:
 `pdfinfo  name_file`
 
 ![pdfinfo](https://github.com/Bbrnn/picoCTF2024-writeups/assets/113863725/2cfaa2f7-097a-492d-a580-911facb52ced)
+
 I did not find anything interesting.
 
 I decided to check what type of file it is\
